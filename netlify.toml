@@ -1,0 +1,4 @@
+[build]
+  functions = "api"
+  command = "yarn install && yarn run build"
+
